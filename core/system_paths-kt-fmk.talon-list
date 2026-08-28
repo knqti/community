@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: kt-fmk
+-
+user: /home/kevin
+desktop: /home/kevin/Desktop
+desk: /home/kevin/Desktop
+documents: /home/kevin/Documents
+docks: /home/kevin/Documents
+downloads: /home/kevin/Downloads
+music: /home/kevin/Music
+pictures: /home/kevin/Pictures
+videos: /home/kevin/Videos
+talon home: /home/kevin/.talon
+talon recordings: /home/kevin/.talon/recordings
+talon user: /home/kevin/.talon/user
+home: /home/kevin

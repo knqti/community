@@ -1,4 +1,5 @@
 tag: user.unix_utilities
 -
 
-core {user.unix_utility}: "{unix_utility} "
+#core {user.unix_utility}: "{unix_utility} "
+{user.unix_utility}: "{unix_utility} "
